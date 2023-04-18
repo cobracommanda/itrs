@@ -1,0 +1,73 @@
+Searching 61 files for "FM_ComponentsSpread" (regex)
+
+/Users/emcentee/Documents/jira scratch/Florida rererererepour dmv/csv/g4u1.csv:
+    7  ,Overview,About the Program: The Texts,print,BA2_TRS_ALLVol_G4_FM_Marketing2,all,s,BA2_TRS_ALLVol_G4_FM_Marketing2,1,y
+    8  ,Overview,Pacing Options and Sample Literacy Block,print,BA2_TRS_ALLVol_G4_FM_Pacing,all,s,BA2_TRS_ALLVol_G4_FM_Pacing,1,y
+    9: ,Overview,Digital and Print Components,print,Y40028_TRS_AllVol_G4_FM_ComponentsSpread,all,s,Y40028_TRS_AllVol_G4_FM_ComponentsSpread,1,y
+   10  ,Unit 1 Introduction,,print,Y40028_TRS_V1_G4_U1_Tab,all,p,Y40028_TRS_V1_G4_U1_Tab,1,
+   11  ,Strategies and Skills,,print,Y40028_TRS_V1_G4_U1_Tab_Strategies+Skills,all,p,Y40028_TRS_V1_G4_U1_Tab_Strategies+Skills,1,
+
+/Users/emcentee/Documents/jira scratch/Florida rererererepour dmv/csv/todo/g4u10.csv:
+    7  ,Overview,About the Program: The Texts,print,BA2_TRS_ALLVol_G4_FM_Marketing2,all,s,BA2_TRS_ALLVol_G4_FM_Marketing2,,y
+    8  ,Overview,Pacing Options and Sample Literacy Block,print,BA2_TRS_ALLVol_G4_FM_Pacing,all,s,BA2_TRS_ALLVol_G4_FM_Pacing,,y
+    9: ,Overview,Digital and Print Components,print,Y40028_TRS_AllVol_G4_FM_ComponentsSpread,all,s,Y40028_TRS_AllVol_G4_FM_ComponentsSpread,,y
+   10  ,Unit 10 Introduction,,print,Y40032_TRS_V5_G4_U10_Tab,all,p,Y40032_TRS_V5_G4_U10_Tab,,
+   11  ,Strategies and Skills,,print,Y40032_TRS_V5_G4_U10_Tab_Strategies+Skills,all,p,Y40032_TRS_V5_G4_U10_Tab_Strategies+Skills,,
+
+/Users/emcentee/Documents/jira scratch/Florida rererererepour dmv/csv/todo/g4u2.csv:
+    7  ,Overview,About the Program: The Texts,print,BA2_TRS_ALLVol_G4_FM_Marketing2,all,s,BA2_TRS_ALLVol_G4_FM_Marketing2,1,y
+    8  ,Overview,Pacing Options and Sample Literacy Block,print,BA2_TRS_ALLVol_G4_FM_Pacing,all,s,BA2_TRS_ALLVol_G4_FM_Pacing,1,y
+    9: ,Overview,Digital and Print Components,print,Y40028_TRS_AllVol_G4_FM_ComponentsSpread,all,s,Y40028_TRS_AllVol_G4_FM_ComponentsSpread,1,y
+   10  ,Unit 2 Introduction,,print,Y40028_TRS_V1_G4_U2_Tab,all,p,Y40028_TRS_V1_G4_U2_Tab,1,
+   11  ,Strategies and Skills,,print,Y40028_TRS_V1_G4_U2_Tab_Strategies+Skills,all,p,Y40028_TRS_V1_G4_U2_Tab_Strategies+Skills,1,
+
+/Users/emcentee/Documents/jira scratch/Florida rererererepour dmv/csv/todo/g4u3.csv:
+    7  ,Overview,About the Program: The Texts,print,BA2_TRS_ALLVol_G4_FM_Marketing2,all,s,BA2_TRS_ALLVol_G4_FM_Marketing2,,y
+    8  ,Overview,Pacing Options and Sample Literacy Block,print,BA2_TRS_ALLVol_G4_FM_Pacing,all,s,BA2_TRS_ALLVol_G4_FM_Pacing,,y
+    9: ,Overview,Digital and Print Components,print,Y40028_TRS_AllVol_G4_FM_ComponentsSpread,all,s,Y40028_TRS_AllVol_G4_FM_ComponentsSpread,,y
+   10  ,Unit 3 Introduction,,print,Y40029_TRS_V2_G4_U3_Tab,all,p,Y40029_TRS_V2_G4_U3_Tab,,
+   11  ,Strategies and Skills,,print,Y40029_TRS_V2_G4_U3_Tab_Strategies+Skills,all,p,Y40029_TRS_V2_G4_U3_Tab_Strategies+Skills,,
+
+/Users/emcentee/Documents/jira scratch/Florida rererererepour dmv/csv/todo/g4u4.csv:
+    7  ,Overview,About the Program: The Texts,print,BA2_TRS_ALLVol_G4_FM_Marketing2,all,s,BA2_TRS_ALLVol_G4_FM_Marketing2,,y
+    8  ,Overview,Pacing Options and Sample Literacy Block,print,BA2_TRS_ALLVol_G4_FM_Pacing,all,s,BA2_TRS_ALLVol_G4_FM_Pacing,,y
+    9: ,Overview,Digital and Print Components,print,Y40028_TRS_AllVol_G4_FM_ComponentsSpread,all,s,Y40028_TRS_AllVol_G4_FM_ComponentsSpread,,y
+   10  ,Unit 4 Introduction,,print,Y40029_TRS_V2_G4_U4_Tab,all,p,Y40029_TRS_V2_G4_U4_Tab,,
+   11  ,Strategies and Skills,,print,Y40029_TRS_V2_G4_U4_Tab_Strategies+Skills,all,p,Y40029_TRS_V2_G4_U4_Tab_Strategies+Skills,,
+
+/Users/emcentee/Documents/jira scratch/Florida rererererepour dmv/csv/todo/g4u5.csv:
+    7  ,Overview,About the Program: The Texts,print,BA2_TRS_ALLVol_G4_FM_Marketing2,all,s,BA2_TRS_ALLVol_G4_FM_Marketing2,,y
+    8  ,Overview,Pacing Options and Sample Literacy Block,print,BA2_TRS_ALLVol_G4_FM_Pacing,all,s,BA2_TRS_ALLVol_G4_FM_Pacing,,y
+    9: ,Overview,Digital and Print Components,print,Y40028_TRS_AllVol_G4_FM_ComponentsSpread,all,s,Y40028_TRS_AllVol_G4_FM_ComponentsSpread,,y
+   10  ,Unit 5 Introduction,,print,Y40030_TRS_V3_G4_U5_Tab,all,p,Y40030_TRS_V3_G4_U5_Tab,,
+   11  ,Strategies and Skills,,print,Y40030_TRS_V3_G4_U5_Tab_Strategies+Skills,all,p,Y40030_TRS_V3_G4_U5_Tab_Strategies+Skills,,
+
+/Users/emcentee/Documents/jira scratch/Florida rererererepour dmv/csv/todo/g4u6.csv:
+    7  ,Overview,About the Program: The Texts,print,BA2_TRS_ALLVol_G4_FM_Marketing2,all,s,BA2_TRS_ALLVol_G4_FM_Marketing2,,y
+    8  ,Overview,Pacing Options and Sample Literacy Block,print,BA2_TRS_ALLVol_G4_FM_Pacing,all,s,BA2_TRS_ALLVol_G4_FM_Pacing,,y
+    9: ,Overview,Digital and Print Components,print,Y40028_TRS_AllVol_G4_FM_ComponentsSpread,all,s,Y40028_TRS_AllVol_G4_FM_ComponentsSpread,,y
+   10  ,Unit 6 Introduction,,print,Y40030_TRS_V3_G4_U6_Tab,all,p,Y40030_TRS_V3_G4_U6_Tab,,
+   11  ,Strategies and Skills,,print,Y40030_TRS_V3_G4_U6_Tab_Strategies+Skills,all,p,Y40030_TRS_V3_G4_U6_Tab_Strategies+Skills,,
+
+/Users/emcentee/Documents/jira scratch/Florida rererererepour dmv/csv/todo/g4u7.csv:
+    7  ,Overview,About the Program: The Texts,print,BA2_TRS_AllVol_G4_FM_Marketing2,all,s,BA2_TRS_AllVol_G4_FM_Marketing2,,y
+    8  ,Overview,Pacing Options and Sample Literacy Block,print,BA2_TRS_AllVol_G4_FM_Pacing,all,s,BA2_TRS_AllVol_G4_FM_Pacing,,y
+    9: ,Overview,Digital and Print Components,print,Y40028_TRS_AllVol_G4_FM_ComponentsSpread,all,s,Y40028_TRS_AllVol_G4_FM_ComponentsSpread,,y
+   10  ,Unit 7 Introduction,,print,Y40031_TRS_V4_G4_U7_Tab,all,p,Y40031_TRS_V4_G4_U7_Tab,,
+   11  ,Strategies and Skills,,print,Y40031_TRS_V4_G4_U7_Tab_Strategies+Skills,all,p,Y40031_TRS_V4_G4_U7_Tab_Strategies+Skills,,
+
+/Users/emcentee/Documents/jira scratch/Florida rererererepour dmv/csv/todo/g4u8.csv:
+    7  ,Overview,About the Program: The Texts,print,BA2_TRS_ALLVol_G4_FM_Marketing2,all,s,BA2_TRS_ALLVol_G4_FM_Marketing2,,y
+    8  ,Overview,Pacing Options and Sample Literacy Block,print,BA2_TRS_ALLVol_G4_FM_Pacing,all,s,BA2_TRS_ALLVol_G4_FM_Pacing,,y
+    9: ,Overview,Digital and Print Components,print,Y40028_TRS_AllVol_G4_FM_ComponentsSpread,all,s,Y40028_TRS_AllVol_G4_FM_ComponentsSpread,,y
+   10  ,Unit 8 Introduction,,print,Y40031_TRS_V4_G4_U8_Tab,all,p,Y40031_TRS_V4_G4_U8_Tab,,
+   11  ,Strategies and Skills,,print,Y40031_TRS_V4_G4_U8_Tab_Strategies+Skills,all,p,Y40031_TRS_V4_G4_U8_Tab_Strategies+Skills,,
+
+/Users/emcentee/Documents/jira scratch/Florida rererererepour dmv/csv/todo/g4u9.csv:
+    7  ,Overview,About the Program: The Texts,print,BA2_TRS_ALLVol_G4_FM_Marketing2,all,s,BA2_TRS_ALLVol_G4_FM_Marketing2,,y
+    8  ,Overview,Pacing Options and Sample Literacy Block,print,BA2_TRS_ALLVol_G4_FM_Pacing,all,s,BA2_TRS_ALLVol_G4_FM_Pacing,,y
+    9: ,Overview,Digital and Print Components,print,Y40028_TRS_AllVol_G4_FM_ComponentsSpread,all,s,Y40028_TRS_AllVol_G4_FM_ComponentsSpread,,y
+   10  ,Unit 9 Introduction,,print,Y40032_TRS_V5_G4_U9_Tab,all,p,Y40032_TRS_V5_G4_U9_Tab,,
+   11  ,Strategies and Skills,,print,Y40032_TRS_V5_G4_U9_Tab_Strategies+Skills,all,p,Y40032_TRS_V5_G4_U9_Tab_Strategies+Skills,,
+
+20 matches across 10 files
